@@ -1,4 +1,5 @@
 body{
     background-color: beige;
     color: black;
+    header{border:solid,2px blue;}
 }
